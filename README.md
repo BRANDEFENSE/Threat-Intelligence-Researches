@@ -11,4 +11,4 @@ The DarkSide ransomware has been identified as a cybercrime gang thought to be b
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=BRANDEFENSE/Threat-Intelligence-Researches&type=Date)](https://star-history.com/#BRANDEFENSE/Threat-Intelligence-Researches&Date)
