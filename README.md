@@ -8,6 +8,12 @@ The Brandefense cyber threat intelligence team is always researching new threats
 
 The DarkSide ransomware has been identified as a cybercrime gang thought to be based in Russia especially targeting the US and Eastern Europe corporations. Also, they leverage ransomware in their campaign. They had targeted energy, financial, and so on sectors. But targets do not include hospitals, government institutions, schools, non-profit organizations DarkSide that has first seen in August 2020. Also, their loudest operation is known as Colonial Pipeline in the US. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/DarkSide%20Ransomware%20Analysis%20Report.pdf)***
 
+## PetitPotam Vulnerability Analysis
+
+Today, constantly changing and developing cyber threats, ensuring the security of systems to regularly follow up the current vulnerabilities at the point of necessitates swift action. Therefore, analysis of detected vulnerabilities taking necessary security measures to prevent possible attacks is critical in this regard.
+
+PetitPotam vulnerability, which is the subject of this report, is a vulnerability to analyzing and necessary measures. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/DarkSide%20Ransomware%20Analysis%20Report.pdf)***
+
 
 ## Star History
 
