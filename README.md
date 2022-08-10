@@ -12,7 +12,7 @@ The DarkSide ransomware has been identified as a cybercrime gang thought to be b
 
 Today, constantly changing and developing cyber threats, ensuring the security of systems to regularly follow up the current vulnerabilities at the point of necessitates swift action. Therefore, analysis of detected vulnerabilities taking necessary security measures to prevent possible attacks is critical in this regard.
 
-PetitPotam vulnerability, which is the subject of this report, is a vulnerability to analyzing and necessary measures. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/DarkSide%20Ransomware%20Analysis%20Report.pdf)***
+PetitPotam vulnerability, which is the subject of this report, is a vulnerability to analyzing and necessary measures. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/PetitPotam%20Vulnerability%20Analysis.pdf)***
 
 
 ## Star History
