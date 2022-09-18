@@ -14,6 +14,9 @@ Today, constantly changing and developing cyber threats, ensuring the security o
 
 PetitPotam vulnerability, which is the subject of this report, is a vulnerability to analyzing and necessary measures. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/PetitPotam%20Vulnerability%20Analysis.pdf)***
 
+## HermeticWiper  Technical  Analysis  Report
+
+As the tension that started between Russia and Ukraine on February 24 turned into a physical conflict, at the same time, cyber-attacks and malware threats came to the fore. Researchers had found that Russian threat actors developed malware that corrupts MBR (Master Boot Record) and disk volumes for Ukrainian organizations. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/DarkSide%20Ransomware%20Analysis%20Report.pdf)***
 
 ## Star History
 
