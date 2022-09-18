@@ -16,7 +16,7 @@ PetitPotam vulnerability, which is the subject of this report, is a vulnerabilit
 
 ## HermeticWiper  Technical  Analysis  Report
 
-As the tension that started between Russia and Ukraine on February 24 turned into a physical conflict, at the same time, cyber-attacks and malware threats came to the fore. Researchers had found that Russian threat actors developed malware that corrupts MBR (Master Boot Record) and disk volumes for Ukrainian organizations. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/DarkSide%20Ransomware%20Analysis%20Report.pdf)***
+As the tension that started between Russia and Ukraine on February 24 turned into a physical conflict, at the same time, cyber-attacks and malware threats came to the fore. Researchers had found that Russian threat actors developed malware that corrupts MBR (Master Boot Record) and disk volumes for Ukrainian organizations. ***[Read More..](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches/blob/main/HermeticWiper-Technical-Analysis-Report.pdf)***
 
 ## Star History
 
